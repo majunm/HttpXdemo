@@ -20,6 +20,7 @@ import request.CommonRequest;
      "errorMsg": ""
  }
  * 只返回成功,失败,data是对象 所以用HttpCommObjResp即可,不关注data
+ * http://www.wanandroid.com/user/register
  */
 @ReqTags("注册")
 public class RegisterReq extends CommonRequest {
