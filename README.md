@@ -1,5 +1,4 @@
-#### 请求三部曲
-
+#### 请求三步曲
 
 > 请求体
 ```
@@ -24,8 +23,6 @@ public class RegisterReq extends CommonRequest {
         return "user/register";
     }
 }
-
-
 ```
 
 > 响应体

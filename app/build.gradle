@@ -26,4 +26,5 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     api 'com.github.majunm:HttpX:v1.0.0-gamma'
+    api 'com.github.majunm:encryptanddecrypt:v1.0.0-final' // 加密解密
 }
